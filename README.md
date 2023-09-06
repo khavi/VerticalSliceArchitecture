@@ -1,0 +1,2 @@
+# VerticalSliceArchitecture
+VerticalSliceArchitecture
